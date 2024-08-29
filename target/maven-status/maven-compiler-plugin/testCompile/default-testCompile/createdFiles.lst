@@ -1,0 +1,13 @@
+RestAssured\RestAssured\FirstGetRequest.class
+Auth\BearerToken.class
+TestAssuredTest\RestAssuredBDDFramework.class
+TestAssuredTest\RestUtils.class
+TestAssuredTest\PostRequest.class
+ValidateHTTPResponsesCode\ValidateHTTPResponse.class
+APIKey\APIkey.class
+ValidateHTTPResponsesCode\ValidateResponseHeader.class
+Auth\Authorization.class
+JsonSchemaValidation\JSONSchemaValidation.class
+ValidateHTTPResponsesCode\ValidateJSONBody.class
+AddHeaders\AddHeader.class
+ValidateHTTPResponsesCode\ValidatePathParameter.class
