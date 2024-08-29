@@ -38,4 +38,22 @@ public class RestUtils {
 		
 	}
 	
+	public static String empName() {
+		String generateString = RandomStringUtils.randomAlphabetic(3);
+		return("Arif" +generateString);
+		
+	}
+	
+	public static String empSal() {
+		String generateString = RandomStringUtils.randomAlphabetic(3);
+		return(generateString);
+		
+	}
+	
+	public static String empAge() {
+		String generateString = RandomStringUtils.randomAlphabetic(3);
+		return(generateString);
+		
+	}
+	
 }

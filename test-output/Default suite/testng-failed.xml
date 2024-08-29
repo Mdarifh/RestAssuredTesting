@@ -3,12 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="TestAssuredTest.PostRequest">
+      <class name="TestAssuredTest.PUT_Request">
         <methods>
-          <include name="postdata"/>
-          <include name="testpost"/>
+          <include name="putData"/>
+          <include name="testPut"/>
         </methods>
-      </class> <!-- TestAssuredTest.PostRequest -->
+      </class> <!-- TestAssuredTest.PUT_Request -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
